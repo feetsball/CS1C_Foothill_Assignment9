@@ -1,0 +1,31 @@
+------------------------------RUN 1-----------------------------------------
+----------------------------------------------------------------------------
+Array Size: 20000
+Recursion #: 2
+Elapsed Time: 0 hrs : 0 mins : 0 sec : 252 ms : 73120 ns
+
+Array Size: 20000
+Recursion #: 4
+Elapsed Time: 0 hrs : 0 mins : 0 sec : 70 ms : 426700 ns
+
+Array Size: 20000
+Recursion #: 6
+Elapsed Time: 0 hrs : 0 mins : 0 sec : 23 ms : 649716 ns
+
+Array Size: 20000
+Recursion #: 8
+Elapsed Time: 0 hrs : 0 mins : 0 sec : 77 ms : 282629 ns
+
+Array Size: 20000
+Recursion #: 10
+Elapsed Time: 0 hrs : 0 mins : 0 sec : 24 ms : 742605 ns
+
+Array Size: 20000
+Recursion #: 12
+Elapsed Time: 0 hrs : 0 mins : 0 sec : 23 ms : 661073 ns
+
+Array Size: 20000
+Recursion #: 14
+Elapsed Time: 0 hrs : 0 mins : 0 sec : 24 ms : 58954 ns
+
+etc......
